@@ -1,0 +1,51 @@
+export const DATA = [
+  {
+    id: 1,
+    time: "5:00",
+    userText: "Wake up",
+    alarmText: "Everyday",
+    onFlag: true,
+  },
+  {
+    id: 2,
+    time: "4:00",
+    userText: "Wake up",
+    alarmText: "Everyday",
+    onFlag: false,
+  },
+  {
+    id: 3,
+    time: "6:00 ",
+    userText: "Wake up",
+    alarmText: "Everyday",
+    onFlag: true,
+  },
+  {
+    id: 4,
+    time: "10:00",
+    userText: "Wake up",
+    alarmText: "Everyday",
+    onFlag: true,
+  },
+  {
+    id: 5,
+    time: "5:00",
+    userText: "Wake up",
+    alarmText: "Everyday",
+    onFlag: false,
+  },
+  {
+    id: 6,
+    time: "5:00",
+    userText: "Wake up",
+    alarmText: "Everyday",
+    onFlag: false,
+  },
+  {
+    id: 7,
+    time: "5:00",
+    userText: "Wake up",
+    alarmText: "Everyday",
+    onFlag: true,
+  },
+];
